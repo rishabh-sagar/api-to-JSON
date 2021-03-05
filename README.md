@@ -7,8 +7,9 @@ a script for scraping data from APIs into JSON format
 
 Install axios and node
 
-for installing axios 
-  npm install axios
+for installing axios write this in terminal
+
+npm install axios
   
   
 ##for Running this script
